@@ -1,2 +1,2 @@
 # wordcloud
-making a wordcloud image using python and wordcloud
+Creating a wordcloud image using **python** and **wordcloud package**
